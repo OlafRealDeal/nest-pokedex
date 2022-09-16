@@ -1,5 +1,5 @@
 
-import  * as Joi from "joi";
+import * as Joi from "joi";
 
 export const JoiValidationSchema = Joi.object({
 
